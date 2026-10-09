@@ -1,0 +1,29 @@
+[
+  {
+    "id": "shelter_school",
+    "name": "Govt Higher Secondary School",
+    "x": 12,
+    "y": 40,
+    "capacity": 60000,
+    "initial_occupancy": 12000,
+    "available": true
+  },
+  {
+    "id": "shelter_hall",
+    "name": "Perungudi Community Hall",
+    "x": 56,
+    "y": 88,
+    "capacity": 80000,
+    "initial_occupancy": 20000,
+    "available": true
+  },
+  {
+    "id": "shelter_college",
+    "name": "Engineering College Campus",
+    "x": 90,
+    "y": 52,
+    "capacity": 50000,
+    "initial_occupancy": 10000,
+    "available": true
+  }
+]
